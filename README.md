@@ -9,6 +9,6 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程教材 | https://github.com/ccc112a/cpu2os <BR/> https://www.nand2tetris.org/
 
-參考書籍:<<Computer Organization and Design-The Hardware/Software Interface>> 5 Edition-David A. Patterson/John L. Hennessy
+參考書籍:<<Computer Organization and Design-The Hardware/Software Interface>> 5 Edition-David A. Patterson/John L. Hennessy  
 參考投影片:From Nand to Tetris_Projects  
 
