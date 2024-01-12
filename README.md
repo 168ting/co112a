@@ -11,4 +11,4 @@
 
 參考書籍:<<Computer Organization and Design-The Hardware/Software Interface>> 5 Edition-David A. Patterson/John L. Hennessy  
 參考投影片:From Nand to Tetris_Projects  
-參考資料:
+Ch01-03自行完成、Ch04請教高中同學&參考老師資料、Ch05參考網路&請教同學
